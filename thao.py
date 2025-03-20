@@ -45,7 +45,7 @@ def main():
     st.write(random.choice(love_quotes))
 
     st.subheader("Anh nhớ em lắm á. Mong gặp em để ôm em hun chụt chụt ròi lấy Sữa Cam cho nó mồ côi mẹ luôn =:)))")
-    st.subheader("Miss u alot")
+    st.subheader("Miss u a lot")
     st.write(":Đ")
 
 
